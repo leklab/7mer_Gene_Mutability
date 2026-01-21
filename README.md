@@ -26,8 +26,6 @@ This project uses the following tools and versioned resources:
 - **Ensembl VEP** – functional consequence annotations
 - **Reference genome**: **GRCh38 / hg38** (matched to Ensembl 85)
 
-All annotation, sequence, and variant resources are version-matched to ensure consistency.
-
 ---
 
 ## High-Level Pipeline Logic
